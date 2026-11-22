@@ -65,10 +65,26 @@ Follow the complete lecture series on YouTube:
 
 ## About Gömülü Mimari
 
-Gömülü Mimari is an educational initiative focused on embedded systems, computer architecture, electronics, and low-level programming.
+Gömülü Mimari is an independent educational initiative focused on creating Turkish-language educational content and resources in embedded systems, computer architecture, electronics, and low-level programming.
 
-The goal is to make technical subjects more accessible through structured educational content and practical examples.
+This initiative was born not from a claim of academic or professional teaching expertise, but from a genuine interest in learning, researching, and sharing knowledge. One of the main motivations behind this project is the difficulty of finding well-structured, comprehensive, and accessible educational resources in Turkish for certain technical subjects.
+
+The goal is not simply to present existing knowledge, but to organize and share what is learned through structured lectures, practical examples, and source code so that others can benefit from these materials.
+
+In the long term, Gömülü Mimari aims to contribute to the growth of Turkish technical resources, encourage others to build upon and improve existing materials, and help create a shared body of knowledge that can grow through learning and collaboration.
+
+### Gömülü Mimari Hakkında
+
+Gömülü Mimari; gömülü sistemler, bilgisayar mimarisi, elektronik ve düşük seviyeli programlama alanlarında Türkçe eğitim içerikleri ve kaynaklar oluşturmayı amaçlayan bağımsız bir eğitim girişimidir.
+
+Bu girişim, belirli bir akademik veya eğitmenlik unvanına sahip olma iddiasından ziyade, öğrenme, araştırma ve bilgiyi paylaşma isteğinden doğmuştur. Özellikle bazı teknik konularda Türkçe, düzenli, kapsamlı ve erişilebilir eğitim kaynaklarına ulaşmanın güç olması, bu çalışmanın ortaya çıkmasındaki temel nedenlerden biridir.
+
+Amaç yalnızca mevcut bilgileri aktarmak değil; öğrenme sürecinde edinilen bilgileri düzenli dersler, uygulamalı örnekler ve kaynak kodlarla paylaşarak başkalarının da bu çalışmalardan yararlanmasını sağlamaktır.
+
+Gömülü Mimari'nin uzun vadeli hedefi, Türkçe teknik kaynakların artmasına katkıda bulunmak, başkalarını mevcut çalışmaların üzerine yeni bilgiler ekleyerek bunları geliştirmeye teşvik etmek ve öğrenme ve iş birliğiyle büyüyebilecek ortak bir bilgi birikimi oluşturmaktır.
 
 ---
 
 **Learning how computers work, from the inside out.**
+
+**Bilgisayarların nasıl çalıştığını, en temelden başlayarak öğrenmek ve paylaşmak.**
