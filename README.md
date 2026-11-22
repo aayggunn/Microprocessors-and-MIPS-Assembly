@@ -61,7 +61,7 @@ Repository documentation and directory naming conventions are in English.
 
 Follow the complete lecture series on YouTube:
 
-[Gömülü Mimari – Microprocessors and MIPS Assembly]([YOUR_YOUTUBE_PLAYLIST_URL](https://youtube.com/playlist?list=PLcb4sTI-zugk&si=7calmVe72BXdN1wY))
+[Gömülü Mimari – Microprocessors and MIPS Assembly](https://youtube.com/playlist?list=PLcb4sTI-zugk&si=7calmVe72BXdN1wY)
 
 ## About Gömülü Mimari
 
